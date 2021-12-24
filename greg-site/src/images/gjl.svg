@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.2550001in"
+   height="5.25in"
+   viewBox="0 0 209.67701 133.35"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="gjl.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="199.9448"
+     inkscape:cy="561.25984"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1072"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="in"
+     width="8.5in" />
+  <defs
+     id="defs2">
+    <rect
+       x="198.01607"
+       y="352.3143"
+       width="510.47"
+       height="576.04675"
+       id="rect1947" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.79854504,0,0,0.79854504,-166.76154,-315.9933)"
+       id="text1945"
+       style="font-size:192px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';white-space:pre;shape-inside:url(#rect1947);fill:#ececec"><tspan
+         x="198.01562"
+         y="525.6582"
+         id="tspan15102"><tspan
+           style="font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math'"
+           id="tspan15100">GJL</tspan></tspan></text>
+  </g>
+</svg>
