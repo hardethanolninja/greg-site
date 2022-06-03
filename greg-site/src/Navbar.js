@@ -28,7 +28,7 @@ export const Navbar = () => {
   const { isOpen, onToggle } = useDisclosure();
 
   return (
-    <Box position={'absolute'} width={'100vw'}>
+    <Box position={'absolute'} width={'100vw'} maxW="100%">
       <Flex
         bg="gray.800"
         opacity="95%"
@@ -40,7 +40,7 @@ export const Navbar = () => {
       >
         <Flex
           flex={{ base: 1, md: 'auto' }}
-          ml={{ base: -2 }}
+          // ml={{ base: -2 }}
           display={{ base: 'flex', md: 'none' }}
         >
           <IconButton

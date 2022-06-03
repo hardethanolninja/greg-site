@@ -30,7 +30,7 @@ export default function Footer() {
           <Flex spacing={4}>
             <Center>
               <Text fontSize={'sm'}>
-                © 2021 G. J. Lienhard. All rights reserved
+                © {new Date().getFullYear()} G. J. Lienhard. All rights reserved
               </Text>
             </Center>
           </Flex>

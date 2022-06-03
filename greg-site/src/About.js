@@ -34,7 +34,7 @@ export default function About(props) {
             objectFit="cover"
             borderRadius="15%"
             src={photo}
-            alt="A photo of Mr. Lienhard"
+            alt="Attorney Photo"
             boxShadow="base"
           />
           <VStack align={'start'}>

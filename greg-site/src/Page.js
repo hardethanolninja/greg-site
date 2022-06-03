@@ -12,7 +12,7 @@ import {
   VStack,
 } from '@chakra-ui/react';
 
-import { FaGavel } from 'react-icons/fa';
+// import { FaGavel } from 'react-icons/fa';
 import { GoLaw } from 'react-icons/go';
 
 export default function Page(props) {

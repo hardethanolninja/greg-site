@@ -27,6 +27,7 @@ export default function TopBanner(props) {
             color={'white'}
             fontWeight={700}
             lineHeight={1.2}
+            textAlign={'center'}
             fontSize={useBreakpointValue({ base: '3xl', md: '4xl' })}
           >
             {props.text}
