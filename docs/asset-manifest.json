@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/greg-site/static/js/main.36f62e59.chunk.js",
+    "main.js.map": "/greg-site/static/js/main.36f62e59.chunk.js.map",
+    "runtime-main.js": "/greg-site/static/js/runtime-main.e413f187.js",
+    "runtime-main.js.map": "/greg-site/static/js/runtime-main.e413f187.js.map",
+    "static/js/2.5472957d.chunk.js": "/greg-site/static/js/2.5472957d.chunk.js",
+    "static/js/2.5472957d.chunk.js.map": "/greg-site/static/js/2.5472957d.chunk.js.map",
+    "static/js/3.d5fdcd1a.chunk.js": "/greg-site/static/js/3.d5fdcd1a.chunk.js",
+    "static/js/3.d5fdcd1a.chunk.js.map": "/greg-site/static/js/3.d5fdcd1a.chunk.js.map",
+    "index.html": "/greg-site/index.html",
+    "static/js/2.5472957d.chunk.js.LICENSE.txt": "/greg-site/static/js/2.5472957d.chunk.js.LICENSE.txt",
+    "static/media/alamo.4d782a0c.jpg": "/greg-site/static/media/alamo.4d782a0c.jpg",
+    "static/media/family.62205dc7.jpg": "/greg-site/static/media/family.62205dc7.jpg",
+    "static/media/gavel.b8ad3732.jpg": "/greg-site/static/media/gavel.b8ad3732.jpg",
+    "static/media/gjl.74598ce5.svg": "/greg-site/static/media/gjl.74598ce5.svg",
+    "static/media/photo.c648dcc5.jpg": "/greg-site/static/media/photo.c648dcc5.jpg",
+    "static/media/suburbs.ace9e4af.jpg": "/greg-site/static/media/suburbs.ace9e4af.jpg",
+    "static/media/will.6453099b.jpg": "/greg-site/static/media/will.6453099b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e413f187.js",
+    "static/js/2.5472957d.chunk.js",
+    "static/js/main.36f62e59.chunk.js"
+  ]
+}
