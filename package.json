@@ -2,7 +2,6 @@
   "name": "greg-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hardethanolninja.github.io/greg-site",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.1",
     "@chakra-ui/react": "^1.7.2",
